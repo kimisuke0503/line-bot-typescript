@@ -34,4 +34,6 @@
    https://90fc-116-222-225-72.ngrok-free.app/webhook
    ```
 
-## Renderに
+## Renderにデプロイして運用するとき
+
+1. `https://dashboard.render.com/`にアクセス、webhookURLをLINE Developersに登録

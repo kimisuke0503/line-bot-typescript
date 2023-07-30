@@ -22,7 +22,7 @@
   },
   "devDependencies": {
     "@types/express": "^4.17.17",
-    "@typescript-eslint/eslint-plugin": "^16.0.0",
+    "@typescript-eslint/eslint-plugin": "^6.2.0",
     "@typescript-eslint/parser": "^6.2.0",
     "eslint": "^8.45.0",
     "eslint-config-prettier": "^8.8.0",
