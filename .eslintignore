@@ -1,0 +1,6 @@
+dist
+node_modules
+public
+*.d.ts
+plugin
+next.config.js
